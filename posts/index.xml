@@ -18,7 +18,7 @@
       
       <guid>https://chichunliu.github.io/posts/my-first-post/</guid>
       <description>Hello try1
-Subtitle  list1 list2 list3  test_func &amp;lt;- function(x = b){ b = 5 return(x) } b = 5 def test_function(x = b): return x latex $$ L=\sum_{(u,v)\in D} \log {\exp(-d(u,v))} $$</description>
+Subtitle  list1 list2 list3  test_func &amp;lt;- function(x = b){ b = 5 return(x) } b = 5 def test_function(x = b): return x latex $$ x + y = \frac{\epsilon}{5\delta} $$</description>
     </item>
     
   </channel>
