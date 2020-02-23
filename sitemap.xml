@@ -18,11 +18,8 @@
   </url>
   
   <url>
-    <loc>https://chichunliu.github.io/about/about/</loc>
-  </url>
-  
-  <url>
     <loc>https://chichunliu.github.io/about/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
